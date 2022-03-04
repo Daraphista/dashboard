@@ -10,6 +10,6 @@
   - Greeting ✔
   - buttons ✔
 - Main
-  - Your Projects
+  - Your Projects ✔
   - Announcements
   - Trending
